@@ -13,6 +13,7 @@ The FER2013 dataset ( facial expression recognition) consists of 48*48 pixel gra
 • 4:sad
 • 5:surprise
 • 6:natural
+The dataset is stored in another branch named "master".
 
 ## Steps
 1.) Built a convolution neural network architecture and train the model on FER2013 dataset for Emotion recognition from images. (File name - Train.py)
