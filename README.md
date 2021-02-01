@@ -20,5 +20,5 @@ The dataset is stored in another branch named "master".
 
 2.) Created a folder named emojis and saved the emojis corresponding to each of the seven emotions in the dataset.
 
-3.) Written a code to analyze the live video feeds in real-time to capture the face and find out the expression. And then, classified the expression 
+3.) Written a code to analyze a live video in real-time to capture the face and find out the expression. And then, classified the expression 
 and mapped it to the corresponding emoji or avatar. (File name - gui.py)
